@@ -20,8 +20,8 @@ spring:
     hibernate:
       ddlAuto: create-drop
   datasource:
-    url: jdbc:mysql://localhost:3306/parcialservicio1
-#   url: jdbc:mysql://dbMovies:3307/parcialservicio1
+    url: jdbc:mysql://localhost:3306/backend-movies-database
+#   url: jdbc:mysql://dbMovies:3307/backend-movies-database
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
