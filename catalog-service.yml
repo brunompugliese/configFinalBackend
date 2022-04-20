@@ -19,7 +19,7 @@ spring:
       host: localhost
     # host: mongoCatalog
       port: 27017
-      database: test
+      database: backend-catalog-database
 queue:
   serie:
     name: SerieQueue
